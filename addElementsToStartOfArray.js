@@ -6,9 +6,6 @@ function App(){
             ...colours, // copying existing colours
             newColour // adding the new colours
         ];
+        setColours(updatedColours);
     }
 }
-
-const renderedColours = colours.map((colour, i) => {
-    return <li key={i}>{colour}</li>
-});
