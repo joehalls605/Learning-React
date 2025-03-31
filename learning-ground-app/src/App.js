@@ -1,4 +1,6 @@
 import Counter from './Counter';
+import { Provider } from './context/Context';
+
 
 const App = () => {
 
@@ -6,7 +8,9 @@ const App = () => {
         <div>
             <title>Title</title>
             <h1>Hi I'm the app</h1>
-            <Counter/>
+            <Provider>
+                <Counter/>
+            </Provider>
         </div>
     )
 }
