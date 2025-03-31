@@ -1,6 +1,14 @@
+import Counter from './Counter';
+
 const App = () => {
 
-    return <div><h1>Hi I'm the app</h1></div>
+    return (
+        <div>
+            <title>Title</title>
+            <h1>Hi I'm the app</h1>
+            <Counter/>
+        </div>
+    )
 }
 
 export default App;
