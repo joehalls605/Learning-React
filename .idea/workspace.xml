@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ae54ef7-1c8c-41ba-b0bb-a90b50c4e6c8" name="Changes" comment="add elements to the start of an array">
-      <change afterPath="$PROJECT_DIR$/addElementsToMiddleOfArray.js" afterDir="false" />
+    <list default="true" id="2ae54ef7-1c8c-41ba-b0bb-a90b50c4e6c8" name="Changes" comment="fixed adding elements to start of array, and adding elements to middle of array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joeha/Documents/Web Development/React/React-Learning-Ground&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/joeha/Documents/Web Development/React/books2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +75,9 @@
       <updated>1742208648616</updated>
       <workItem from="1742208649882" duration="1127000" />
       <workItem from="1742284202676" duration="595000" />
-      <workItem from="1742563004999" duration="622000" />
+      <workItem from="1742563004999" duration="1330000" />
+      <workItem from="1742721085199" duration="595000" />
+      <workItem from="1742802733360" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="Set up of React learning ground">
       <option name="closed" value="true" />
@@ -94,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742563292382</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed adding elements to start of array, and adding elements to middle of array">
+      <option name="closed" value="true" />
+      <created>1742563698275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742563698275</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Set up of React learning ground" />
     <MESSAGE value="add elements to the start of an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="add elements to the start of an array" />
+    <MESSAGE value="fixed adding elements to start of array, and adding elements to middle of array" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed adding elements to start of array, and adding elements to middle of array" />
   </component>
 </project>
